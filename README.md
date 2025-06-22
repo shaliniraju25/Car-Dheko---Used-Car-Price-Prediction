@@ -61,13 +61,13 @@ I gave some new inputs (like car year, fuel type, transmission, etc.) and checke
 
 # ✅ Why I Did Each Step:
 
-Cleaning was important to remove messy or incorrect values.
+ 1.Cleaning  was important to remove messy or incorrect values.
 
-EDA helped me understand how features affect price.
+2.EDA helped me understand how features affect price.
 
-Encoding was needed because ML models can’t work with text.
+3.Encoding was needed because ML models can’t work with text.
 
-Training and Testing helped in making sure the model works well on new data.
+4.Training and Testing helped in making sure the model works well on new data.
 
 # 🎯 Final Output
 
